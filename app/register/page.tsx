@@ -74,7 +74,7 @@ export default function RegisterPage() {
     try {
 
       const response = await axios.post(
-        "http://13.232.215.228:5000/register",
+        "http://13.205.42.51:5000/register",
         {
           name:
             formData.firstName +
