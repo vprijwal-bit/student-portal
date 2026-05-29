@@ -12,11 +12,11 @@ This project demonstrates real-world implementation of Full Stack Web Developmen
 
 ### 🚀 Frontend Website
 
-http://13.232.215.228:3000
+http://13.205.42.51:3000
 
 ### ⚙️ Backend Server
 
-http://13.232.215.228:5000
+http://13.205.42.51:5000
 
 The frontend application communicates with the backend server and MySQL database in real time through REST API integration hosted on AWS EC2 cloud infrastructure.
 
